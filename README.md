@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# CrystalClearVision v1.1.2
+# CrystalClearVision v1.1.3
 
 [![Discord][discord-badge]][discord-link]  
 [![License][license-badge]][license-link]
