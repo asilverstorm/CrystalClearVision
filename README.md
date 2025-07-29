@@ -39,5 +39,5 @@ For BetterDiscord:
 I just ran `npm install` and that seemed to work so imma not care about pnpm. Also I'm just straight up editing the already compiled files from the original src code so that folder is really just here to refer back to if needed.
 
 ## Support
-Join the original ClearVision [discord server](https://discord.gg/dHaSxn3) and post in their support channel if you need additional help with your own customization!
+Join the original ClearVision [discord server](https://discord.gg/dHaSxn3) and post in their support channel if you need additional help with your own customization!  
 Special Thanks to gitlimes for his project that allowed me to easily get my own Discord Badge for this README. You can view this resource [HERE](https://github.com/gitlimes/dcbadge?tab=readme-ov-file#user-account)
