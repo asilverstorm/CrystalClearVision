@@ -1,7 +1,7 @@
 /**
  * @name CrystalClearVision
  * @author ASilverStorm - ClearVision Team
- * @version 1.1
+ * @version 1.1.2
  * @description Independent, Unbranded, Transparent, and Customized ClearVision Fork
  * @source https://github.com/https://github.com/asilverstorm/CrystalClearVision
  */
@@ -11,8 +11,8 @@
 
 
 /* IMPORT CSS */
-@import url("dependencies/main.css");
-@import url("dependencies/betterdiscord.css");
+@import url("https://raw.githubusercontent.com/asilverstorm/CrystalClearVision/refs/heads/master/dist/dependencies/main.css");
+@import url("https://raw.githubusercontent.com/asilverstorm/CrystalClearVision/refs/heads/master/dist/dependencies/betterdiscord.css");
 
 
 /* SETTINGS */
