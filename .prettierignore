@@ -1,10 +1,2 @@
-.github
-dist/
-node_modules/
-/*.css
-/*.md
-public/
-test/
-
-# Breaks something
+# apparently this "Breaks something" if not here so I'm not gonna touch it, even though I'm just forking the og repo. probably being stupid but oh well
 _tags.scss
