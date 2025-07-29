@@ -7,8 +7,8 @@
 
 # CrystalClearVision v1.1.2
 
-[![License][license-badge]][license-link]  
-[![Discord][discord-badge]][discord-link]
+[![Discord][discord-badge]][discord-link]  
+[![License][license-badge]][license-link]
 
 
 ![Example](IMAGE LINK HERE)
