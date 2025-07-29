@@ -11,11 +11,11 @@
 [![License][license-badge]][license-link]
 
 
-![Example](https://imgur.com/a/RhPceJh)
+![Example](https://i.imgur.com/kcrkRrc.jpeg)
 
 </div>
 
-### About
+# About
 
 This is a fork of the BetterDiscord Theme ClearVision that I have just customized to my liking. My customizations include removing the background images and making the window transparent, removing the ClearVision Branding, setting different UI colors, and overall readability improvements (specifically with dropdown menus).
 
@@ -41,3 +41,7 @@ I just ran `npm install` and that seemed to work so imma not care about pnpm. Al
 ## Support
 Join the original ClearVision [discord server](https://discord.gg/dHaSxn3) and post in their support channel if you need additional help with your own customization!  
 Special Thanks to gitlimes for his project that allowed me to easily get my own Discord Badge for this README. You can view this resource [HERE](https://github.com/gitlimes/dcbadge?tab=readme-ov-file#user-account)
+
+### Disclaimer
+!! ASSUME CHANGES HAVE BEEN MADE TO ALL FILES IN THIS REPOSITORY BY ASILVERSTORM !!  
+(This disclaimer is made in an effort to be compliant with the Apache License the original work is distributed under)
