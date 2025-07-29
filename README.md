@@ -15,11 +15,9 @@
 
 </div>
 
-# About
+# About the Project
 
 This is a fork of the BetterDiscord Theme ClearVision that I have just customized to my liking. My customizations include removing the background images and making the window transparent, removing the ClearVision Branding, setting different UI colors, and overall readability improvements (specifically with dropdown menus).
-
-ASSUME CHANGES HAVE BEEN MADE TO ALL FILES IN THIS REPOSITORY BY ASILVERSTORM - THIS DISCLAIMER IS MADE IN COMPLIANCE WITH THE APACHE LICENSE
 
 
 ## Installing
