@@ -17,7 +17,7 @@
 
 # About the Project
 
-This is a fork of the BetterDiscord Theme ClearVision that I have just customized to my liking. My customizations include removing the background images and making the window transparent, removing the ClearVision Branding, setting different UI colors, and overall readability improvements (specifically with dropdown menus).
+This is a fork of the BetterDiscord Theme ClearVision that I have just customized to my liking. My customizations include removing the background images and making the window transparent, removing the ClearVision Branding, setting different UI colors, and other small changes.
 
 ## CrystalVision + Known Issues w/ CrystalClearVision
 
