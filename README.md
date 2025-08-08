@@ -19,11 +19,23 @@
 
 This is a fork of the BetterDiscord Theme ClearVision that I have just customized to my liking. My customizations include removing the background images and making the window transparent, removing the ClearVision Branding, setting different UI colors, and overall readability improvements (specifically with dropdown menus).
 
+## CrystalVision + Known Issues w/ CrystalClearVision
+
+In the [dist](https://github.com/asilverstorm/CrystalClearVision/tree/master/dist) folder of this repo, you may have noticed a theme file named CrystalVision. This is what I use right now, and is basically me giving up on working on CrystalClearVision for a little bit. CrystalVision is NOT transparent, but fixes the following known issues with CrystalClearVision:
+
+- Overall laggy window behavior
+- Images/videos opened will be persistent instead of closing when you want them to
+- User profiles / other drop-down menus are hard to read due to the background of those also being transparent and having the rest of the Discord window visible behind them
+- Not compatible with Windows 10/11 window-snapping
+- Removes rounded / native OS window border
+
+Feel free to use it, or put in a pull-request if you have a fix to any of those issues within CrystalClearVision. I will review them all.
+
 
 ## Installing
 
 For BetterDiscord:
- [releases] Download from [HERE](https://github.com/asilverstorm/CrystalClearVision/tree/master/dist) and move the file directly into BetterDiscord's themes folder @ `%appdata%\rbetterdiscord\themes`
+ [releases] Download CrystalClearVision from [HERE](https://github.com/asilverstorm/CrystalClearVision/tree/master/dist) and move the file directly into BetterDiscord's themes folder @ `%appdata%\rbetterdiscord\themes`
 
 
 ### 3rd Party Dependencies
